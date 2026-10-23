@@ -19,7 +19,7 @@ namespace PotatoRunes
     public sealed class Plugin : BaseUnityPlugin
     {
         public const string Id = "potato.runes";
-        public const string Version = "1.0.0";
+        public const string Version = "1.0.1";
 
         internal static ManualLogSource Log;
         internal static ConfigEntry<bool> Enabled, Bold;
