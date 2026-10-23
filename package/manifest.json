@@ -1,0 +1,9 @@
+{
+    "name": "PotatoRunes",
+    "version_number": "1.0.0",
+    "website_url": "https://github.com/TheRealRel/PotatoRunes",
+    "description": "Valheim's hover text in the runic font from the game's signs: names, prompts, timers and chest names. Client-only, works on any server.",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.2351"
+    ]
+}
